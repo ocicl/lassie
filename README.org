@@ -1,0 +1,10 @@
+* lassie
+
+Common Lisp Latent Semantic Indexing library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melisgl/lassie.git   |
+| commit  | 209b343  |
+| systems | lassie |
+|---------+-------------------------------------------|
+
